@@ -7,7 +7,7 @@ We recommend a high-return, 2-part capital reallocation strategy:
 1. **Divest Liquorland via Dual-Track Auction** (PE retail turnaround sponsors + Metcash) for **$650M**, netting **$400M cash** post-CGT and transaction costs, with master subleases protecting store footfall and mitigating ACCC concentration risks.
 2. **Reinvest in Coles Kits via an $800M Capital Program** ($400M net divestment proceeds + $400M corporate bank debt at 6.0%), creating a national hybrid meal-kit network built around:
    - **$1.40 Billion Australian Meal-Kit TAM** (expanded market size capturing ready-to-cook convenience).
-   - **7 Meals per Box at $10.00 per Box Base Pricing** (evaluated via a multi-variable sensitivity matrix spanning $10 to $70/box).
+   - **7 Meals per Box at $70.00 per Box Base Pricing ($10.00/meal)**, delivering a calibrated **baseline 20.0% Gross Margin** (direct COGS of $56.00/box, with an operational sensitivity corridor spanning 10% to 30%).
    - **6 Modular Chilled Kitting Centres / Mini-ADCs** across NSW, VIC, and QLD ($300M total).
    - **Hybrid Fulfillment**: Free Click & Collect across 800+ supermarkets + $8.95 home delivery (free for Coles Plus subscribers).
    - **Produce-Anchor Hybrid**: 50–60% of vegetables sourced via exclusive contracts for "I'm Perfect" farm-gate seconds, driving a 20% produce cost advantage and a 35% food waste reduction ESG win.
@@ -19,7 +19,7 @@ We recommend a high-return, 2-part capital reallocation strategy:
 Below is the complete, audit-ready register of every assumption underpinning the Coles Kits strategic and financial model, categorized by operational and corporate finance domain.
 
 ### A. Macro, Market & Competitive Assumptions
-1. **Meal-Kit Industry TAM**: The Australian commercial meal-kit sector is valued at **$1.40 Billion in 2026/2027** (expanded parameter), expanding at a baseline CAGR of **4.0% p.a.** (whiteboard note benchmarked against US growth of 2.8%).
+1. **Meal-Kit Industry TAM**: The Australian commercial meal-kit sector is valued at **$1.40 Billion in 2026/2027**, expanding at a baseline CAGR of **4.0% p.a.** (whiteboard note benchmarked against US growth of 2.8%).
 2. **Market Expansion Beyond TAM**: Coles Kits does not compete solely within the $1.4B subscription box market; it unlocks the broader **$8.0B+ fresh convenience and ready-to-cook grocery space**, capturing spending previously leaking to quick-service restaurants (QSR) and food delivery aggregators (UberEats, DoorDash).
 3. **Competitor Pricing & Churn**: Legacy subscription players (HelloFresh, Marley Spoon, Dinnerly) maintain average pricing of **$12.50–$14.00 per plate** (HelloFresh) and **$8.50–$9.50 per plate** (Dinnerly), while experiencing annual customer churn exceeding **70%** and spending 15–20% of revenue on customer acquisition cost (CAC).
 4. **Woolworths Competitive Response**: Competitor Woolworths Group (37% market share) will not engage in a loss-making price war below $8.00 due to grocery operating margin discipline (~3.3% EBIT). Furthermore, Woolworths cannot duplicate Coles' 20% produce cost advantage without diluting its own premium supplier agreements.
@@ -34,14 +34,14 @@ Below is the complete, audit-ready register of every assumption underpinning the
    - *Year 3 (FY29 Expansion)*: **15.0% adoption** = **1,320,000 active kit buyers**.
    - *Year 4 (FY30 Deepening)*: **17.5% adoption** = **1,540,000 active kit buyers**.
    - *Year 5 (FY31 Maturity)*: **20.0% adoption** = **1,760,000 core buyers** (scaling to **2,015,000 cumulative annual buyers** including occasional trialists).
-9. **Purchase Cadence & Spend**: An adopting customer purchases an average of **18 boxes per year** (~1 box every 2–3 weeks as a regular dinner routine).
+9. **Purchase Cadence & Spend**: An adopting customer purchases an average of **18 boxes per year** (~1 box every 2–3 weeks as a regular dinner routine). Total annual spend per customer is **$1,260.00/year** ($70/box * 18 boxes).
 10. **Trial Conversion Rate**: **10% of Flybuys/Coles Plus trial recipients** convert into paying repeat customers in Year 1, improving by **+2.5 percentage points annually** to achieve **20% conversion** by Year 5.
 
 ### C. Product Offering, Pricing & Packaging Assumptions
 11. **Headline Price Point & Box Sizing**:
-    - **Box Price**: **$10.00 per box base assumption** (modeled across a dynamic sensitivity matrix from $10 to $70 per box).
-    - **Meals per Box**: **7 meals per box** (implied promotional / entry price of **$1.43 per meal** at $10/box; commercial step-up options of $20/box = $2.86/meal, $35/box = $5.00/meal, and $70/box = $10.00/meal).
-    - **Annual Spend per Customer**: **$180.00/year at $10/box** (scaling to $630.00/year at $35/box).
+    - **Box Price**: **$70.00 per box**.
+    - **Meals per Box**: **7 meals per box** (implied unit meal price of exactly **$10.00 per meal**).
+    - **Commercial Value Proposition**: At $10.00/meal, Coles undercuts HelloFresh ($12.50–$14.00) by 25% while offering 7 fresh dinners with zero grocery shopping friction.
 12. **Menu Categorization (7-Meal Diversity)**:
     - *Weight Management / Calorie-Smart / GLP-1 Active*: <500 kcal, high fiber, portion-controlled lean protein.
     - *High-Protein*: 35g–45g protein per serve (targeting gym/fitness demographics).
@@ -62,7 +62,7 @@ Below is the complete, audit-ready register of every assumption underpinning the
 
 ### E. Fulfillment, Logistics & Store Operations Assumptions
 20. **Channel Distribution Split**:
-    - **70% Supermarket In-Store / Click & Collect**: Customers purchase directly from chilled endcaps or pick up via free Click & Collect across 800+ stores. Kits cross-docked on existing daily morning chilled dairy/meat fleet at near-zero incremental transport cost (~$0.50/box handling).
+    - **70% Supermarket In-Store / Click & Collect**: Customers purchase directly from chilled endcaps or pick up via free Click & Collect across 800+ stores. Kits cross-docked on existing daily morning chilled dairy/meat fleet at near-zero incremental transport cost (~$4.00/box logistics and handling).
     - **30% Home Delivery**: Delivered weekly via third-party cold-chain couriers.
 21. **Delivery Fee Economics**: Casual home-delivery customers pay an **$8.95 flat delivery fee**, fully covering the $10–$12 courier drop cost. Home delivery is free only for **Coles Plus ($19/month)** members, incentivizing recurring subscription loyalty.
 22. **Store Shrink & Spoilage**: In-store waste/shrink is capped at **<3.5%** through:
@@ -71,35 +71,40 @@ Below is the complete, audit-ready register of every assumption underpinning the
     - Repurposing near-expiry proteins into Coles hot-bar deli preparations.
 
 ### F. Unit Economics, Margins & Cannibalization Assumptions
-23. **Unit Cost Structure (per 7-Meal Box)**:
-    - *Food Ingredients COGS*: **$7.70 per box** (7 meals @ $1.10/meal wholesale, leveraging imperfect produce discount).
-    - *Packaging (VSP, film, trays, recipe card)*: **$0.80 per box**.
-    - *Assembly & Kitting Labor (Mini-ADCs)*: **$0.90 per box**.
-    - *Allocated Store Logistics & Handling*: **$0.50 per box**.
-    - *Total Direct Unit COGS*: **$9.90 per box**.
-24. **Gross Profit Margin Dynamics (Sensitivity Analysis)**:
-    - At **$10.00 per box (7 meals)**: Gross profit is **$0.10 per box (1.0% gross margin)** — functions as an aggressive customer acquisition loss-leader / trial price.
-    - At **$20.00 per box ($2.86/meal)**: Gross profit is **$10.10 per box (50.5% gross margin)**.
-    - At **$35.00 per box ($5.00/meal)**: Gross profit is **$25.10 per box (71.7% gross margin)**.
-25. **Cannibalization Ratio (60/40)**:
-    - **60% Cannibalized Grocery Volume**: Replaces an existing $8.00 raw grocery basket (which yielded 4.7% grocery EBIT = $0.38).
+23. **Unit Cost Structure (per 7-Meal Box at $70.00)**:
+    - *Fresh Food Ingredients*: **$35.00 per box** ($5.00/meal wholesale; proteins $2.80, veg $1.20, carbs/sauce $1.00).
+    - *Pre-Processing, Chopping & Kitchen Prep*: **$5.00 per box** ($0.71/meal).
+    - *Packaging & Vacuum Barrier Materials (VSP, box, ice packs)*: **$4.50 per box** ($0.64/meal).
+    - *Mini-ADC Automated Assembly & Packing*: **$4.50 per box** ($0.64/meal).
+    - *Chilled Logistics & In-Store Handling*: **$4.00 per box** ($0.57/meal).
+    - *Perishable Shrink & Markdown Allowance*: **$3.00 per box** ($0.43/meal).
+    - *Total Direct COGS*: **$56.00 per box** (80.0% of revenue).
+24. **Gross Profit Margin Dynamics (10% to 30% Sensitivity Range)**:
+    - At **Baseline COGS ($56.00/box)**: Gross profit is **$14.00 per box (20.0% Gross Margin)**.
+    - If operational efficiencies lower COGS to **$49.00/box**: Gross profit rises to **$21.00 per box (30.0% Gross Margin)**.
+    - If food inflation or labor increases COGS to **$63.00/box**: Gross profit softens to **$7.00 per box (10.0% Gross Margin)**.
+25. **Operating EBIT Margin**:
+    - Allocated store floor space, Flybuys AI, and marketing allocated at **12.0% of revenue ($8.40/box)**.
+    - Standalone Kits Operating EBIT: **8.0% ($5.60 per box)** at the 20% gross margin baseline (expanding to **18.0%** in the 30% gross margin bull case).
+26. **Cannibalization Ratio (60/40)**:
+    - **60% Cannibalized Grocery Volume**: Replaces an existing $45.00 raw grocery basket (which yielded 4.7% grocery EBIT = $2.12).
     - **40% Pure Incremental Volume**: Captured from HelloFresh/Marley Spoon defectors and takeaway dining ($0 baseline to Coles -> 100% accretive).
 
 ### G. M&A, Divestment & Antitrust Assumptions
-26. **Divestment Target**: 100% of Liquorland retail operations (~950 store leases and wholesale supply contracts).
-27. **Sale Process**: Dual-track competitive auction involving Metcash alongside Australian private equity turnaround funds (Anchorage Capital, BGH Capital, Allegro Funds).
-28. **Transaction Valuation**: **$650.0M gross enterprise value** (~5.5x FY25 EBITDA of $246M / ~5.75x EBIT of $113M).
-29. **Net Proceeds**: **$400.0M realized net cash** after estimated 30% CGT ($200M tax liability) and $50M transaction, separation, and advisory costs.
-30. **Balance Sheet Write-Down**: Carrying book value of Liquorland non-cash assets is **$650.0M**, resulting in a **-$250.0M accounting reduction to shareholders' equity** post-deal.
-31. **Antitrust & Co-Location Protection**: Coles retains head-leases on supermarkets and structures long-term master subleases for adjacent bottle shops. Regional licensing divestment remedies pre-agreed to guarantee rapid ACCC approval.
-32. **Divestment Timing**: Transaction execution and cash completion in **FY27 Q1**.
+27. **Divestment Target**: 100% of Liquorland retail operations (~950 store leases and wholesale supply contracts).
+28. **Sale Process**: Dual-track competitive auction involving Metcash alongside Australian private equity turnaround funds (Anchorage Capital, BGH Capital, Allegro Funds).
+29. **Transaction Valuation**: **$650.0M gross enterprise value** (~5.5x FY25 EBITDA of $246M / ~5.75x EBIT of $113M).
+30. **Net Proceeds**: **$400.0M realized net cash** after estimated 30% CGT ($200M tax liability) and $50M transaction, separation, and advisory costs.
+31. **Balance Sheet Write-Down**: Carrying book value of Liquorland non-cash assets is **$650.0M**, resulting in a **-$250.0M accounting reduction to shareholders' equity** post-deal.
+32. **Antitrust & Co-Location Protection**: Coles retains head-leases on supermarkets and structures long-term master subleases for adjacent bottle shops. Regional licensing divestment remedies pre-agreed to guarantee rapid ACCC approval.
+33. **Divestment Timing**: Transaction execution and cash completion in **FY27 Q1**.
 
 ### H. Capital Expenditure & Infrastructure Allocation Assumptions
-33. **Total Program Capex**: **$800.0M**, fully deployed across FY27 and FY28.
-34. **Capital Funding Structure**:
+34. **Total Program Capex**: **$800.0M**, fully deployed across FY27 and FY28.
+35. **Capital Funding Structure**:
     - **$400.0M** funded via net cash proceeds from the Liquorland divestment.
     - **$400.0M** funded via a new bilateral bank corporate loan facility.
-35. **Capex Allocation Breakdown**:
+36. **Capex Allocation Breakdown**:
     - **$300.0M**: 6 Modular Chilled Kitting Mini-ADCs (2 NSW, 2 VIC, 2 QLD @ ~$50M each). Precedent: Takeoff MFCs ($15M–$20M) and Marley Spoon automated packaging lines ($20M–$35M).
     - **$150.0M**: In-store refrigerated display bays and endcap merchandising across 800+ supermarkets (~$180k/store).
     - **$100.0M**: Flybuys AI demand forecasting, inventory reordering algorithms, and mobile app integration.
@@ -107,56 +112,56 @@ Below is the complete, audit-ready register of every assumption underpinning the
     - **$100.0M**: Cold-chain working capital buffer and construction contingency.
 
 ### I. Corporate Finance, Balance Sheet & Credit Assumptions
-36. **Cost of Debt ($r_d$)**: **6.00% p.a.** on new bank debt (reflecting prevailing Australian corporate borrowing spreads for BBB+ rated issuers).
-37. **Cost of Equity ($r_e$)**: **8.14%**, held completely constant (Coles' defensive consumer staples beta of ~0.45 and market risk premium of 7.0% are unaffected).
-38. **Weighted Average Cost of Capital (WACC)**: **6.97% – 6.98%**, maintaining Coles' position as the lowest cost of capital across ASX retail peers (WOW 7.08%, MTS 7.63%, WES 12.21%).
-39. **Corporate Tax Rate ($T_c$)**: **30.0%**.
-40. **Depreciation & Amortisation Life**: $800M capital program depreciated straight-line over **10 years** ($80M annual run-rate), phased in as:
+37. **Cost of Debt ($r_d$)**: **6.00% p.a.** on new bank debt (reflecting prevailing Australian corporate borrowing spreads for BBB+ rated issuers).
+38. **Cost of Equity ($r_e$)**: **8.14%**, held completely constant (Coles' defensive consumer staples beta of ~0.45 and market risk premium of 7.0% are unaffected).
+39. **Weighted Average Cost of Capital (WACC)**: **6.97% – 6.98%**, maintaining Coles' position as the lowest cost of capital across ASX retail peers (WOW 7.08%, MTS 7.63%, WES 12.21%).
+40. **Corporate Tax Rate ($T_c$)**: **30.0%**.
+41. **Depreciation & Amortisation Life**: $800M capital program depreciated straight-line over **10 years** ($80M annual run-rate), phased in as:
     - *Y1 (FY27)*: $35.0M
     - *Y2 (FY28)*: $60.0M
     - *Y3–Y5 (FY29–FY31)*: $80.0M/year.
-41. **Debt Repayment Schedule**: Cash generated from Coles Kits and core operations repays **$1,690M of total debt** over 5 years:
+42. **Debt Repayment Schedule**: Cash generated from Coles Kits and core operations repays **$1,690M of total debt** over 5 years:
     - Debt declines from **$10,292M** post-transaction to **$8,602M by Year 5**.
-42. **Credit Rating Headroom (S&P BBB+ / Moody's Baa1)**:
+43. **Credit Rating Headroom (S&P BBB+ / Moody's Baa1)**:
     - S&P downgrade trigger: Adjusted Net Debt / EBITDA > **2.75x–3.00x**.
     - Coles peaks at **2.45x in Year 1** and deleverages to **1.57x by Year 5**.
     - S&P FFO / Net Debt remains at **~23.5%** (above the 20.0% downgrade threshold).
     - Liquidity protected by **$2.5B in undrawn committed bank facilities**.
-43. **Dividend Payout Policy**:
+44. **Dividend Payout Policy**:
     - Group target payout policy of **80.0% to 90.0% of underlying NPAT** strictly maintained.
     - Actual modeled payouts: **82.1% (Y1), 81.6% (Y2), 80.4% (Y3), 80.4% (Y4), 80.5% (Y5)**.
     - Total dividend distributions increase from **$969.2M in Y1 to $1,572.0M in Y5 (+62%)**.
-44. **Retained Earnings Balance Sheet Linkage**: Retained earnings (`NPAT - Dividends Paid`) strictly equal the annual growth in shareholders' equity (**+$211M in Y1, +$254M in Y2, +$303M in Y3, +$343M in Y4, +$381M in Y5**), ensuring 100% mathematical tie-out across financial statements.
+45. **Retained Earnings Balance Sheet Linkage**: Retained earnings (`NPAT - Dividends Paid`) strictly equal the annual growth in shareholders' equity (**+$211M in Y1, +$254M in Y2, +$303M in Y3, +$343M in Y4, +$381M in Y5**), ensuring 100% mathematical tie-out across financial statements.
 
 ---
 
-## 3. Dynamic Sensitivity Analysis Matrices
+## 3. Multi-Variable Sensitivity Matrices (10% to 30% Margin Corridor)
 
-To evaluate the commercial viability of **7 meals per box at $10.00/box** versus higher commercial price points, the following two-way sensitivity matrices demonstrate the operational thresholds.
+The following live sensitivity matrices evaluate the financial impact of varying box prices, customer adoption rates, and unit COGS across the 10% to 30% gross margin corridor.
 
-### Table 3A: Year 5 Coles Kits Gross Revenue ($M) — Box Price vs Customer Adoption Rate
+### Table 3A: Year 5 Coles Kits Gross Revenue ($M) — Price per Box ($40 to $100) vs Customer Adoption Rate
 *Universe: 8.8 Million Eastern Seaboard Coles Shoppers | Purchase Cadence: 18 Boxes/Year*
 
-| Price per Box | 5.0% Adoption | 7.5% Adoption | 10.0% Adoption | 12.5% Adoption | 15.0% Adoption | 17.5% Adoption | 20.0% Adoption |
+| Price per Box | 5.0% Adoption | 7.5% Adoption | 10.0% Adoption | 12.5% Adoption | 15.0% Adoption | 17.5% Adoption | 20.0% Adoption (Base) |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **$10.00 (Base)** | **$79.2M** | **$118.8M** | **$158.4M** | **$198.0M** | **$237.6M** | **$277.2M** | **$316.8M** |
-| **$20.00 ($2.86/meal)** | $158.4M | $237.6M | $316.8M | $396.0M | $475.2M | $554.4M | $633.6M |
-| **$35.00 ($5.00/meal)** | $277.2M | $415.8M | $554.4M | $693.0M | $831.6M | $970.2M | $1,108.8M |
-| **$50.00 ($7.14/meal)** | $396.0M | $594.0M | $792.0M | $990.0M | $1,188.0M | $1,386.0M | $1,584.0M |
-| **$70.00 ($10.00/meal)**| $554.4M | $831.6M | $1,108.8M | $1,386.0M | $1,663.2M | $1,940.4M | $2,217.6M |
+| **$40.00 ($5.71/meal)** | $316.8M | $475.2M | $633.6M | $792.0M | $950.4M | $1,108.8M | $1,267.2M |
+| **$55.00 ($7.86/meal)** | $435.6M | $653.4M | $871.2M | $1,089.0M | $1,306.8M | $1,524.6M | $1,742.4M |
+| **$70.00 ($10.00/meal - Base)**| **$554.4M** | **$831.6M** | **$1,108.8M** | **$1,386.0M** | **$1,663.2M** | **$1,940.4M** | **$2,217.6M** |
+| **$85.00 ($12.14/meal)**| $673.2M | $1,009.8M | $1,346.4M | $1,683.0M | $2,019.6M | $2,356.2M | $2,692.8M |
+| **$100.00 ($14.29/meal)**| $792.0M | $1,188.0M | $1,584.0M | $1,980.0M | $2,376.0M | $2,772.0M | $3,168.0M |
 
-### Table 3B: Unit Gross Margin (%) — Meals per Box vs Box Price (Profitability Thresholds)
-*Direct Costs: Food ingredients ($1.10/meal) + Packaging ($0.80) + Labor ($0.90) + Logistics ($0.50)*
+### Table 3B: Unit Gross Margin (%) — Direct COGS per Box vs Price per Box (10% to 30% Margin Corridor)
+*Demonstrating the exact 10% to 30% margin sensitivity requested by the Board*
 
-| Box Price ($) | 3 Meals | 4 Meals | 5 Meals | 7 Meals (Base) | 10 Meals | 14 Meals |
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-| **$10.00 (Base)** | 45.0% | 34.0% | 23.0% | **1.0% (Breakeven)** | -32.0% (Loss) | -76.0% (Loss) |
-| **$20.00** | 72.5% | 67.0% | 61.5% | **50.5%** | 34.0% | 12.0% |
-| **$35.00** | 84.3% | 81.1% | 78.0% | **71.7%** | 62.3% | 49.7% |
-| **$50.00** | 89.0% | 86.8% | 84.6% | **80.2%** | 73.6% | 64.8% |
-| **$70.00** | 92.1% | 90.6% | 89.0% | **85.9%** | 81.1% | 74.9% |
+| Price per Box | $49.00 COGS (Bull) | $52.50 COGS | $56.00 COGS (Base) | $59.50 COGS | $63.00 COGS (Bear) |
+| :--- | :---: | :---: | :---: | :---: | :---: |
+| **$60.00** | 18.3% | 12.5% | 6.7% | 0.8% | -5.0% |
+| **$65.00** | 24.6% | 19.2% | 13.8% | 8.5% | 3.1% |
+| **$70.00 (Base)** | **30.0% (Upper)** | **25.0%** | **20.0% (Target Baseline)** | **15.0%** | **10.0% (Lower)** |
+| **$75.00** | 34.7% | 30.0% | 25.3% | 20.7% | 16.0% |
+| **$80.00** | 38.8% | 34.4% | 30.0% | 25.6% | 21.3% |
 
-> **Key Board Insight from Sensitivity**: A 7-meal box priced at **$10.00** covers direct COGS (1.0% gross margin) and acts as an unbeatable customer acquisition loss-leader to crush HelloFresh. Once habitual loyalty is established, stepping up pricing to **$20.00–$35.00 per box ($2.86–$5.00 per meal)** expands gross margin to **50.5%–71.7%** and drives **$633M–$1.11B in revenue**, creating strong long-term EBIT accretion.
+> **Key Board Insight from Sensitivity**: At the **$70.00 baseline box price (7 meals @ $10.00/meal)**, unit direct COGS of **$56.00** delivers exactly the target **20.0% Gross Margin**. If procurement efficiencies expand savings (COGS down to $49.00), gross margin reaches **30.0%**; if wholesale costs increase (COGS up to $63.00), gross margin compresses to **10.0%**. The model remains commercially viable and cash-flow positive across the entire 10% to 30% corridor.
 
 ---
 
@@ -165,13 +170,13 @@ To evaluate the commercial viability of **7 meals per box at $10.00/box** versus
 ```mermaid
 graph TD
     A[Board Attack Vectors] --> B(Challenge 1: In-Store Spoilage & Shrink)
-    A --> C(Challenge 2: $10/Box & 7-Meal Unit Economics)
+    A --> C(Challenge 2: $70/Box & 20% Gross Margin Economics)
     A --> D(Challenge 3: BBB+ Rating Downgrade Risk)
     A --> E(Challenge 4: ACCC & Metcash M&A Delay)
     A --> F(Challenge 5: Woolworths Counter-Attack)
 
     B --> B1[Vacuum Skin Packaging + Recipe Sequencing + Daily Cross-Docking]
-    C --> C1[1.0% Direct COGS Breakeven on Trial Box + Stepped Commercial Upsell]
+    C --> C1[$56 COGS Delivering 20% Gross Margin with 10-30% Sensitivity Buffer]
     D --> D1[Net Debt/EBITDA 2.45x < 2.75x S&P Trigger; $2.5B Undrawn Bank Lines]
     E --> E1[Dual-Track PE Auction + Co-Location Supermarket Master Subleases]
     F --> F1[Exclusive Grower Seconds Contracts + Flybuys 1-Click Habit Lock-In]
@@ -186,12 +191,11 @@ graph TD
     - *"Cook Later" (Days 4–7)*: Vacuum-packed beef, pork, root vegetables (sweet potato, carrots, broccoli).
   - **Store Replenishment**: Daily cross-docking from local mini-ADCs on existing morning dairy/chilled trucks limits in-store holding to 1.5 days of demand.
 
-### Challenge 2: $10 per Box Unit Economics & Delivery Trap
-- **Risk**: Selling 7 meals for $10 leaves only $0.10 of gross profit per box before store overhead and courier delivery.
+### Challenge 2: $70 per Box (20% Gross Margin) Defense
+- **Risk**: Why is Gross Margin 20% rather than 40%? What happens if wholesale costs fluctuate?
 - **Board Defense**:
-  - **Free Click & Collect**: Customers picking up at 800+ stores pay **$0 delivery fee** (Coles delivers to stores on existing refrigerated fleet at ~$0.50/box incremental cost).
-  - **Home Delivery Fee**: Casual home-delivery shoppers pay an **$8.95 flat delivery fee**, covering third-party courier freight.
-  - **Trial vs Commercial Phasing**: $10/box operates as the headline Flybuys trial promotion, stepping up to higher-margin 4-meal and 7-meal tier options ($20–$35/box) as demonstrated in Table 3B.
+  - **Real-World Costing**: The $56.00 direct COGS includes premium proteins ($35.00/box), dedicated kitchen prep/chopping labor ($5.00), VSP packaging ($4.50), automated mini-ADC assembly ($4.50), chilled line-haul logistics ($4.00), and a built-in $3.00 perishable shrink allowance.
+  - **Margin Cushion**: As shown in Table 3B, even in an inflationary bear case ($63.00 COGS), the box maintains a **10.0% gross margin**, while efficiency gains deliver up to **30.0% gross margin**.
 
 ### Challenge 3: Credit Rating & BBB+ Downgrade Risk
 - **Risk**: EBITDA dips by $172M in Y1 while debt rises by $400M. S&P/Moody's could downgrade Coles below BBB+, blowing out borrowing costs on $2.3B of bonds.
